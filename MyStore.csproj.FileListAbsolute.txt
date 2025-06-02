@@ -1,0 +1,51 @@
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.frmCategories.resources
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.frmCustomerInfo.resources
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.frmForgotPassword.resources
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.frmLandingPage.resources
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.frmLogIn.resources
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.frmMeat.resources
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.frmPork.resources
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.Properties.Resources.resources
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyStore\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\USER\source\repos\MyStore\MyStore\bin\Debug\MyStore.exe
+C:\Users\USER\source\repos\MyStore\MyStore\bin\Debug\MyStore.pdb
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.exe
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.pdb
+C:\Users\USER\source\repos\MyStore\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\bin\Debug\MyStore.exe
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\bin\Debug\MyStore.pdb
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.frmCategories.resources
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.frmCustomerInfo.resources
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.frmForgotPassword.resources
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.frmLandingPage.resources
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.frmLogIn.resources
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.frmMeat.resources
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.frmPork.resources
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.Properties.Resources.resources
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.exe
+C:\Users\boiku\OneDrive\Documents\Boikutlo Rampora\MyStore\MyStore\obj\Debug\MyStore.pdb
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\bin\Debug\MyStore.exe.config
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\bin\Debug\MyStore.exe
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\bin\Debug\MyStore.pdb
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmCategories.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmCustomerInfo.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmForgotPassword.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmLandingPage.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmLogIn.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmMeat.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmOrder.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmPork.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.Properties.Resources.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.csproj.GenerateResource.cache
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.exe
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.pdb
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmDelivery.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.frmBeef.resources
+C:\Users\boiku\source\repos\MyStoreManagement\MyStore\obj\Debug\MyStore.csproj.AssemblyReference.cache
